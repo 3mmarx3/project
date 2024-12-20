@@ -1207,3 +1207,8 @@ svg {
   width: 1.25rem;
   height: 1.25rem;
 }
+
+
+img.work__img {
+    width: 100%;
+}
