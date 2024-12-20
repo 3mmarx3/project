@@ -1208,7 +1208,9 @@ svg {
   height: 1.25rem;
 }
 
-
-img.work__img {
+@media screen and (max-width: 992px) {
+  img {
+    height: auto;
     width: 100%;
+  }
 }
